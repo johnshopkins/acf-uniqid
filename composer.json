@@ -2,7 +2,7 @@
     "name": "johnshopkins/acf-uniqid",
     "description": "Advanced Custom field that creates and stores a unique ID.",
     "homepage": "https://github.com/johnshopkins/acf-uniqid",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "license": "GPL-2.0-or-later",
     "type": "wordpress-plugin",
     "authors": [
